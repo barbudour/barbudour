@@ -1,4 +1,4 @@
-# Hello, I'm Federico Dondi 👋
+# Hello, I'm Ivan Vinokurov 👋
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
@@ -18,8 +18,8 @@ Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cy
 
 ### Get in Touch
 
-- GitHub: [github.com/barbudour]
-- Telegram: [t.me/barbudour]
+- GitHub: [barbudour](github.com/barbudour)
+- Telegram: [barbudour](t.me/barbudour)
 - E-mail: barbudour@gmail.com
 
 ![barbudour github stats](https://github-readme-stats.vercel.app/api?username=barbudour&show_icons=true&hide_border=true)
