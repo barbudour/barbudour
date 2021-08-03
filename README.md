@@ -18,8 +18,8 @@ Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cy
 
 ### Get in Touch
 
-- GitHub: [github.com/barbudour][github]
-- Telegram: [t.me/barbudour][telegram]
+- GitHub: [github.com/barbudour]
+- Telegram: [t.me/barbudour]
 - E-mail: barbudour@gmail.com
 
 ![barbudour github stats](https://github-readme-stats.vercel.app/api?username=barbudour&show_icons=true&hide_border=true)
